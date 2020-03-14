@@ -11,8 +11,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.annotations.*;
 
-import javax.security.auth.login.Configuration;
-
 public class SimpleTest {
     private static final Logger LOG = LoggerFactory.getLogger(SimpleTest.class);
     private WebDriver webDriver;
@@ -30,7 +28,6 @@ public class SimpleTest {
     @BeforeMethod
     public void beforeTestMethod() {
         WebDriverManager.chromedriver().setup();
-       // Configuration.browser = “chrome” ;
         webDriver = new ChromeDriver();
         LOG.info("Before ComplexTest method");
     }
