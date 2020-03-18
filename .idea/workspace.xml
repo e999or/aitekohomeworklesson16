@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c950953-1291-4841-9a5d-487eb9f9d2f1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/github/e999or/lesson16/SimpleTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/github/e999or/lesson16/SimpleTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/github/e999or/lesson16/SimpleTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/github/e999or/lesson16/SimpleTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/suites/testNG.xml" afterPath="$PROJECT_DIR$/src/test/resources/suites/testNG.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/log4j.properties" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/suites/testNG.xml" afterPath="$PROJECT_DIR$/target/test-classes/suites/testNG.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,653 +20,9 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+            <state relative-caret-position="-50">
+              <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MAVEN/com.github.e999or.lesson16:tastseleniumlesson16:1.0.0" pinned="false" current-in-tab="false">
-        <entry file="uml://MAVEN/com.github.e999or.lesson16:tastseleniumlesson16:1.0.0">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>MAVEN</ID>
-              <OriginalElement>com.github.e999or.lesson16:tastseleniumlesson16:1.0.0</OriginalElement>
-              <nodes>
-                <node x="0.0" y="812.5203048509121">com.github.e999or.lesson16:tastseleniumlesson16:1.0.0</node>
-                <node x="259.0" y="1333.770304850912">org.testng:testng:jar:7.1.0</node>
-                <node x="469.5" y="1338.743074098798">org.testng:testng:jar:7.1.0/com.beust:jcommander:jar:1.72</node>
-                <node x="466.5" y="1268.743074098798">org.testng:testng:jar:7.1.0/com.google.inject:guice:jar:no_aop:4.1.0</node>
-                <node x="716.0" y="1193.770304850912">org.testng:testng:jar:7.1.0/com.google.inject:guice:jar:no_aop:4.1.0/javax.inject:javax.inject:jar:1</node>
-                <node x="715.0" y="1263.770304850912">org.testng:testng:jar:7.1.0/com.google.inject:guice:jar:no_aop:4.1.0/aopalliance:aopalliance:jar:1.0</node>
-                <node x="729.0" y="1333.770304850912">org.testng:testng:jar:7.1.0/com.google.inject:guice:jar:no_aop:4.1.0/com.google.guava:guava:jar:19.0</node>
-                <node x="475.5" y="1408.743074098798">org.testng:testng:jar:7.1.0/org.yaml:snakeyaml:jar:1.21</node>
-                <node x="243.5" y="668.7703048509121">org.slf4j:slf4j-log4j12:jar:1.7.30</node>
-                <node x="482.5" y="638.7430740987979">org.slf4j:slf4j-log4j12:jar:1.7.30/org.slf4j:slf4j-api:jar:1.7.30</node>
-                <node x="490.5" y="708.7430740987979">org.slf4j:slf4j-log4j12:jar:1.7.30/log4j:log4j:jar:1.2.17</node>
-                <node x="238.5" y="267.39232866043596">org.seleniumhq.selenium:selenium-java:jar:3.141.59</node>
-                <node x="928.5" y="399.30601913662645">org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-api:jar:3.141.59</node>
-                <node x="439.0" y="14.78571428571422">org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.141.59</node>
-                <node x="446.5" y="154.78571428571422">org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-edge-driver:jar:3.141.59</node>
-                <node x="443.0" y="484.3417334223407">org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.141.59</node>
-                <node x="455.0" y="554.3417334223407">org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-ie-driver:jar:3.141.59</node>
-                <node x="444.5" y="283.2226858032931">org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-opera-driver:jar:3.141.59</node>
-                <node x="682.0" y="248.91171562082792">org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59</node>
-                <node x="445.5" y="84.78571428571422">org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-safari-driver:jar:3.141.59</node>
-                <node x="456.5" y="384.6155429461502">org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-support:jar:3.141.59</node>
-                <node x="932.0" y="229.40125723186452">org.seleniumhq.selenium:selenium-java:jar:3.141.59/net.bytebuddy:byte-buddy:jar:1.8.15</node>
-                <node x="922.0" y="329.30601913662645">org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.apache.commons:commons-exec:jar:1.3</node>
-                <node x="947.0" y="568.9880952380951">org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre</node>
-                <node x="1174.0" y="790.9747441032489">org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre/com.google.code.findbugs:jsr305:jar:1.3.9</node>
-                <node x="1131.5" y="650.9747441032489">org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre/org.checkerframework:checker-compat-qual:jar:2.0.0</node>
-                <node x="1124.5" y="720.9747441032489">org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre/com.google.errorprone:error_prone_annotations:jar:2.1.3</node>
-                <node x="1139.0" y="580.9747441032489">org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre/com.google.j2objc:j2objc-annotations:jar:1.1</node>
-                <node x="1118.0" y="510.9747441032489">org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre/org.codehaus.mojo:animal-sniffer-annotations:jar:1.14</node>
-                <node x="945.5" y="159.40125723186452">org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okhttp3:okhttp:jar:3.11.0</node>
-                <node x="1177.5" y="212.224744103249">org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okio:okio:jar:1.14.0</node>
-                <node x="226.0" y="983.7703048509121">io.github.bonigarcia:webdrivermanager:jar:3.8.1</node>
-                <node x="482.5" y="1198.743074098798">io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.slf4j:slf4j-api:jar:1.7.25</node>
-                <node x="469.0" y="918.7430740987979">io.github.bonigarcia:webdrivermanager:jar:3.8.1/commons-io:commons-io:jar:2.6</node>
-                <node x="490.5" y="988.7430740987979">io.github.bonigarcia:webdrivermanager:jar:3.8.1/com.google.code.gson:gson:jar:2.8.5</node>
-                <node x="459.5" y="848.7430740987979">io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.apache.commons:commons-lang3:jar:3.8.1</node>
-                <node x="478.0" y="1058.743074098798">io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.apache.httpcomponents:httpclient:jar:4.5.6</node>
-                <node x="722.5" y="953.8829272363154">io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.apache.httpcomponents:httpclient:jar:4.5.6/org.apache.httpcomponents:httpcore:jar:4.4.10</node>
-                <node x="695.0" y="1123.770304850912">io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.apache.httpcomponents:httpclient:jar:4.5.6/commons-logging:commons-logging:jar:1.2</node>
-                <node x="699.5" y="1053.770304850912">io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.apache.httpcomponents:httpclient:jar:4.5.6/commons-codec:commons-codec:jar:1.10</node>
-                <node x="476.5" y="778.7430740987979">io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.rauschig:jarchivelib:jar:1.0.0</node>
-                <node x="690.0" y="778.7430740987979">io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.rauschig:jarchivelib:jar:1.0.0/org.apache.commons:commons-compress:jar:1.18</node>
-                <node x="489.0" y="1128.743074098798">io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.jsoup:jsoup:jar:1.11.3</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/net.bytebuddy:byte-buddy:jar:1.8.15">
-                  <point x="80.0" y="-7.5" />
-                  <point x="-48.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59">
-                  <point x="54.0" y="-1.0714285714285552" />
-                  <point x="359.0" y="281.3209000890074" />
-                  <point x="439.0" y="235.3055462839345" />
-                  <point x="602.0" y="235.3055462839345" />
-                  <point x="-80.0" y="-1.875" />
-                </edge>
-                <edge source="io.github.bonigarcia:webdrivermanager:jar:3.8.1" target="io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.apache.httpcomponents:httpclient:jar:4.5.6">
-                  <point x="66.5" y="4.285714285714334" />
-                  <point x="439.0" y="1073.743074098798" />
-                  <point x="-42.5" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre">
-                  <point x="80.0" y="12.5" />
-                  <point x="922.0" y="580.6547619047617" />
-                  <point x="-33.0" y="-3.3333333333333712" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-safari-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-api:jar:3.141.59">
-                  <point x="75.0" y="4.285714285714278" />
-                  <point x="682.0" y="117.29069314641714" />
-                  <point x="842.0" y="117.29069314641714" />
-                  <point x="-51.5" y="-10.0" />
-                </edge>
-                <edge source="org.testng:testng:jar:7.1.0" target="org.testng:testng:jar:7.1.0/org.yaml:snakeyaml:jar:1.21">
-                  <point x="33.5" y="10.0" />
-                  <point x="359.0" y="1358.770304850912" />
-                  <point x="439.0" y="1423.743074098798" />
-                  <point x="-45.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-ie-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59">
-                  <point x="65.5" y="-12.85714285714289" />
-                  <point x="602.0" y="556.4845905651978" />
-                  <point x="-80.0" y="13.125" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-safari-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okio:okio:jar:1.14.0">
-                  <point x="75.0" y="-12.85714285714289" />
-                  <point x="682.0" y="75.4369715175788" />
-                  <point x="1038.0" y="75.4369715175788" />
-                  <point x="1118.0" y="219.724744103249" />
-                  <point x="-28.5" y="-7.5" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-edge-driver:jar:3.141.59">
-                  <point x="54.0" y="-3.2142857142857224" />
-                  <point x="359.0" y="279.1780429461502" />
-                  <point x="-74.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre">
-                  <point x="81.5" y="8.571428571428555" />
-                  <point x="682.0" y="51.57640743213142" />
-                  <point x="842.0" y="51.57640743213142" />
-                  <point x="922.0" y="570.6547619047617" />
-                  <point x="-33.0" y="-13.333333333333371" />
-                </edge>
-                <edge source="org.testng:testng:jar:7.1.0/com.google.inject:guice:jar:no_aop:4.1.0" target="org.testng:testng:jar:7.1.0/com.google.inject:guice:jar:no_aop:4.1.0/javax.inject:javax.inject:jar:1">
-                  <point x="54.0" y="-10.0" />
-                  <point x="602.0" y="1273.743074098798" />
-                  <point x="682.0" y="1208.770304850912" />
-                  <point x="-46.0" y="-0.0" />
-                </edge>
-                <edge source="io.github.bonigarcia:webdrivermanager:jar:3.8.1" target="io.github.bonigarcia:webdrivermanager:jar:3.8.1/com.google.code.gson:gson:jar:2.8.5">
-                  <point x="66.5" y="-0.0" />
-                  <point x="439.0" y="1003.7430740987979" />
-                  <point x="-30.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-opera-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.apache.commons:commons-exec:jar:1.3">
-                  <point x="76.0" y="4.285714285714278" />
-                  <point x="682.0" y="325.18697151757885" />
-                  <point x="842.0" y="325.18697151757885" />
-                  <point x="-58.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-support:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/net.bytebuddy:byte-buddy:jar:1.8.15">
-                  <point x="64.0" y="-4.285714285714278" />
-                  <point x="602.0" y="395.32982866043596" />
-                  <point x="682.0" y="434.26885847797087" />
-                  <point x="842.0" y="434.26885847797087" />
-                  <point x="-48.0" y="6.666666666666657" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-edge-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okhttp3:okhttp:jar:3.11.0">
-                  <point x="74.0" y="-8.571428571428555" />
-                  <point x="682.0" y="158.66316199376934" />
-                  <point x="842.0" y="158.66316199376934" />
-                  <point x="922.0" y="171.06792389853115" />
-                  <point x="-34.5" y="-3.3333333333333712" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-api:jar:3.141.59">
-                  <point x="77.5" y="4.285714285714278" />
-                  <point x="682.0" y="517.8417334223407" />
-                  <point x="842.0" y="517.8417334223407" />
-                  <point x="-51.5" y="6.666666666666686" />
-                </edge>
-                <edge source="org.slf4j:slf4j-log4j12:jar:1.7.30" target="org.slf4j:slf4j-log4j12:jar:1.7.30/org.slf4j:slf4j-api:jar:1.7.30">
-                  <point x="49.0" y="-7.5" />
-                  <point x="359.0" y="676.2703048509121" />
-                  <point x="439.0" y="653.7430740987979" />
-                  <point x="-38.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59">
-                  <point x="77.5" y="-12.857142857142833" />
-                  <point x="-80.0" y="9.375" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okio:okio:jar:1.14.0">
-                  <point x="81.5" y="-12.857142857142833" />
-                  <point x="1038.0" y="16.92857142857133" />
-                  <point x="1118.0" y="216.724744103249" />
-                  <point x="-28.5" y="-10.5" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okhttp3:okhttp:jar:3.11.0">
-                  <point x="54.0" y="-11.785714285714278" />
-                  <point x="359.0" y="270.60661437472163" />
-                  <point x="439.0" y="2.1428571428571104" />
-                  <point x="842.0" y="2.1428571428571104" />
-                  <point x="922.0" y="161.06792389853115" />
-                  <point x="-34.5" y="-13.333333333333371" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.apache.commons:commons-exec:jar:1.3">
-                  <point x="54.0" y="9.642857142857167" />
-                  <point x="359.0" y="292.0351858032931" />
-                  <point x="439.0" y="599.8145026702266" />
-                  <point x="842.0" y="599.8145026702266" />
-                  <point x="-58.0" y="13.333333333333314" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-ie-driver:jar:3.141.59">
-                  <point x="54.0" y="7.5" />
-                  <point x="359.0" y="289.89232866043596" />
-                  <point x="439.0" y="569.3417334223407" />
-                  <point x="-65.5" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-ie-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okio:okio:jar:1.14.0">
-                  <point x="65.5" y="12.85714285714289" />
-                  <point x="602.0" y="582.1988762794836" />
-                  <point x="682.0" y="639.2430740987979" />
-                  <point x="1038.0" y="639.2430740987979" />
-                  <point x="1118.0" y="240.724744103249" />
-                  <point x="-28.5" y="13.5" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-support:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okhttp3:okhttp:jar:3.11.0">
-                  <point x="64.0" y="-12.857142857142833" />
-                  <point x="602.0" y="386.7584000890074" />
-                  <point x="682.0" y="238.41171562082792" />
-                  <point x="842.0" y="238.41171562082792" />
-                  <point x="922.0" y="177.7345905651979" />
-                  <point x="-34.5" y="3.3333333333333712" />
-                </edge>
-                <edge source="org.slf4j:slf4j-log4j12:jar:1.7.30" target="org.slf4j:slf4j-log4j12:jar:1.7.30/log4j:log4j:jar:1.2.17">
-                  <point x="49.0" y="7.5" />
-                  <point x="359.0" y="691.2703048509121" />
-                  <point x="439.0" y="723.7430740987979" />
-                  <point x="-30.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okhttp3:okhttp:jar:3.11.0">
-                  <point x="77.5" y="-8.571428571428555" />
-                  <point x="682.0" y="400.1974299065422" />
-                  <point x="842.0" y="400.1974299065422" />
-                  <point x="922.0" y="184.40125723186452" />
-                  <point x="-34.5" y="10.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-edge-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59">
-                  <point x="74.0" y="12.857142857142861" />
-                  <point x="-80.0" y="-5.625" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.apache.commons:commons-exec:jar:1.3">
-                  <point x="81.5" y="-0.0" />
-                  <point x="842.0" y="29.78571428571422" />
-                  <point x="-58.0" y="-13.333333333333371" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-safari-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/net.bytebuddy:byte-buddy:jar:1.8.15">
-                  <point x="75.0" y="-4.285714285714278" />
-                  <point x="682.0" y="84.00840008900741" />
-                  <point x="842.0" y="84.00840008900741" />
-                  <point x="-48.0" y="-6.666666666666686" />
-                </edge>
-                <edge source="com.github.e999or.lesson16:tastseleniumlesson16:1.0.0" target="org.slf4j:slf4j-log4j12:jar:1.7.30">
-                  <point x="73.0" y="-3.75" />
-                  <point x="226.0" y="683.7703048509121" />
-                  <point x="-49.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-edge-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/net.bytebuddy:byte-buddy:jar:1.8.15">
-                  <point x="74.0" y="-4.285714285714278" />
-                  <point x="842.0" y="165.5" />
-                  <point x="-48.0" y="-3.333333333333343" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-support:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59">
-                  <point x="64.0" y="-8.571428571428555" />
-                  <point x="602.0" y="391.04411437472163" />
-                  <point x="-80.0" y="5.625" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre/com.google.errorprone:error_prone_annotations:jar:2.1.3">
-                  <point x="33.0" y="6.0" />
-                  <point x="1038.0" y="589.9880952380951" />
-                  <point x="-81.5" y="-0.0" />
-                </edge>
-                <edge source="org.testng:testng:jar:7.1.0" target="org.testng:testng:jar:7.1.0/com.beust:jcommander:jar:1.72">
-                  <point x="33.5" y="-0.0" />
-                  <point x="359.0" y="1348.770304850912" />
-                  <point x="439.0" y="1353.743074098798" />
-                  <point x="-51.0" y="-0.0" />
-                </edge>
-                <edge source="io.github.bonigarcia:webdrivermanager:jar:3.8.1" target="io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.jsoup:jsoup:jar:1.11.3">
-                  <point x="66.5" y="8.571428571428555" />
-                  <point x="439.0" y="1143.743074098798" />
-                  <point x="-31.5" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-api:jar:3.141.59">
-                  <point x="81.5" y="4.285714285714278" />
-                  <point x="682.0" y="47.29069314641714" />
-                  <point x="842.0" y="47.29069314641714" />
-                  <point x="-51.5" y="-13.333333333333371" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-support:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre">
-                  <point x="64.0" y="12.857142857142833" />
-                  <point x="602.0" y="412.4726858032931" />
-                  <point x="682.0" y="471.9845905651979" />
-                  <point x="842.0" y="471.9845905651979" />
-                  <point x="922.0" y="587.3214285714284" />
-                  <point x="-33.0" y="3.3333333333333712" />
-                </edge>
-                <edge source="io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.apache.httpcomponents:httpclient:jar:4.5.6" target="io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.apache.httpcomponents:httpclient:jar:4.5.6/commons-logging:commons-logging:jar:1.2">
-                  <point x="42.5" y="10.0" />
-                  <point x="602.0" y="1083.743074098798" />
-                  <point x="682.0" y="1138.770304850912" />
-                  <point x="-67.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-opera-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okhttp3:okhttp:jar:3.11.0">
-                  <point x="76.0" y="-12.857142857142833" />
-                  <point x="682.0" y="198.642857142857" />
-                  <point x="842.0" y="198.642857142857" />
-                  <point x="922.0" y="174.40125723186452" />
-                  <point x="-34.5" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-opera-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59">
-                  <point x="76.0" y="-8.571428571428555" />
-                  <point x="-80.0" y="1.875" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okhttp3:okhttp:jar:3.11.0">
-                  <point x="80.0" y="-12.5" />
-                  <point x="922.0" y="181.06792389853115" />
-                  <point x="-34.5" y="6.666666666666657" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre">
-                  <point x="77.5" y="12.85714285714289" />
-                  <point x="682.0" y="549.2107810413884" />
-                  <point x="842.0" y="549.2107810413884" />
-                  <point x="922.0" y="590.6547619047617" />
-                  <point x="-33.0" y="6.666666666666629" />
-                </edge>
-                <edge source="org.testng:testng:jar:7.1.0/com.google.inject:guice:jar:no_aop:4.1.0" target="org.testng:testng:jar:7.1.0/com.google.inject:guice:jar:no_aop:4.1.0/aopalliance:aopalliance:jar:1.0">
-                  <point x="54.0" y="-0.0" />
-                  <point x="602.0" y="1283.743074098798" />
-                  <point x="682.0" y="1278.770304850912" />
-                  <point x="-47.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/net.bytebuddy:byte-buddy:jar:1.8.15">
-                  <point x="54.0" y="-9.642857142857167" />
-                  <point x="359.0" y="272.74947151757874" />
-                  <point x="439.0" y="4.285714285714221" />
-                  <point x="842.0" y="4.285714285714221" />
-                  <point x="-48.0" y="-13.333333333333343" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-opera-driver:jar:3.141.59">
-                  <point x="54.0" y="1.0714285714285552" />
-                  <point x="359.0" y="283.4637572318645" />
-                  <point x="-76.0" y="-0.0" />
-                </edge>
-                <edge source="io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.apache.httpcomponents:httpclient:jar:4.5.6" target="io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.apache.httpcomponents:httpclient:jar:4.5.6/commons-codec:commons-codec:jar:1.10">
-                  <point x="42.5" y="-0.0" />
-                  <point x="602.0" y="1073.743074098798" />
-                  <point x="-62.5" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-safari-driver:jar:3.141.59">
-                  <point x="54.0" y="-5.357142857142833" />
-                  <point x="359.0" y="277.0351858032931" />
-                  <point x="-75.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okhttp3:okhttp:jar:3.11.0" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okio:okio:jar:1.14.0">
-                  <point x="34.5" y="-0.0" />
-                  <point x="1038.0" y="174.40125723186452" />
-                  <point x="1118.0" y="225.724744103249" />
-                  <point x="-28.5" y="-1.5" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.apache.commons:commons-exec:jar:1.3">
-                  <point x="77.5" y="-0.0" />
-                  <point x="682.0" y="508.5545727636851" />
-                  <point x="842.0" y="508.5545727636851" />
-                  <point x="-58.0" y="6.666666666666686" />
-                </edge>
-                <edge source="io.github.bonigarcia:webdrivermanager:jar:3.8.1" target="io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.slf4j:slf4j-api:jar:1.7.25">
-                  <point x="66.5" y="12.85714285714289" />
-                  <point x="439.0" y="1213.743074098798" />
-                  <point x="-38.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-edge-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okio:okio:jar:1.14.0">
-                  <point x="74.0" y="-12.85714285714289" />
-                  <point x="682.0" y="145.43697151757885" />
-                  <point x="1038.0" y="145.43697151757885" />
-                  <point x="1118.0" y="222.724744103249" />
-                  <point x="-28.5" y="-4.5" />
-                </edge>
-                <edge source="com.github.e999or.lesson16:tastseleniumlesson16:1.0.0" target="io.github.bonigarcia:webdrivermanager:jar:3.8.1">
-                  <point x="73.0" y="3.75" />
-                  <point x="-66.5" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-support:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.apache.commons:commons-exec:jar:1.3">
-                  <point x="64.0" y="-0.0" />
-                  <point x="602.0" y="399.6155429461502" />
-                  <point x="682.0" y="438.5545727636851" />
-                  <point x="842.0" y="438.5545727636851" />
-                  <point x="-58.0" y="3.3333333333333144" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-ie-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/net.bytebuddy:byte-buddy:jar:1.8.15">
-                  <point x="65.5" y="-4.285714285714334" />
-                  <point x="602.0" y="565.0560191366264" />
-                  <point x="682.0" y="533.127447708055" />
-                  <point x="842.0" y="533.127447708055" />
-                  <point x="-48.0" y="13.333333333333314" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-ie-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre">
-                  <point x="65.5" y="8.571428571428555" />
-                  <point x="602.0" y="577.9131619937693" />
-                  <point x="682.0" y="615.1002169559408" />
-                  <point x="842.0" y="615.1002169559408" />
-                  <point x="922.0" y="593.9880952380951" />
-                  <point x="-33.0" y="10.0" />
-                </edge>
-                <edge source="org.testng:testng:jar:7.1.0" target="org.testng:testng:jar:7.1.0/com.google.inject:guice:jar:no_aop:4.1.0">
-                  <point x="33.5" y="-10.0" />
-                  <point x="359.0" y="1338.770304850912" />
-                  <point x="439.0" y="1283.743074098798" />
-                  <point x="-54.0" y="-0.0" />
-                </edge>
-                <edge source="org.testng:testng:jar:7.1.0/com.google.inject:guice:jar:no_aop:4.1.0" target="org.testng:testng:jar:7.1.0/com.google.inject:guice:jar:no_aop:4.1.0/com.google.guava:guava:jar:19.0">
-                  <point x="54.0" y="10.0" />
-                  <point x="602.0" y="1293.743074098798" />
-                  <point x="682.0" y="1348.770304850912" />
-                  <point x="-33.0" y="-0.0" />
-                </edge>
-                <edge source="io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.apache.httpcomponents:httpclient:jar:4.5.6" target="io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.apache.httpcomponents:httpclient:jar:4.5.6/org.apache.httpcomponents:httpcore:jar:4.4.10">
-                  <point x="42.5" y="-10.0" />
-                  <point x="602.0" y="1063.743074098798" />
-                  <point x="682.0" y="968.8829272363154" />
-                  <point x="-39.5" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-opera-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre">
-                  <point x="76.0" y="12.857142857142833" />
-                  <point x="682.0" y="411.1974299065422" />
-                  <point x="842.0" y="411.1974299065422" />
-                  <point x="922.0" y="583.9880952380951" />
-                  <point x="-33.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-opera-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/net.bytebuddy:byte-buddy:jar:1.8.15">
-                  <point x="76.0" y="-4.285714285714278" />
-                  <point x="682.0" y="289.4117156208279" />
-                  <point x="842.0" y="289.4117156208279" />
-                  <point x="-48.0" y="3.333333333333343" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre">
-                  <point x="54.0" y="13.928571428571445" />
-                  <point x="359.0" y="296.3209000890074" />
-                  <point x="439.0" y="628.2430740987979" />
-                  <point x="842.0" y="628.2430740987979" />
-                  <point x="922.0" y="597.3214285714284" />
-                  <point x="-33.0" y="13.333333333333371" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59">
-                  <point x="81.5" y="12.857142857142854" />
-                  <point x="-80.0" y="-13.125" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre/org.codehaus.mojo:animal-sniffer-annotations:jar:1.14">
-                  <point x="33.0" y="-12.0" />
-                  <point x="1038.0" y="571.9880952380951" />
-                  <point x="-88.0" y="-0.0" />
-                </edge>
-                <edge source="io.github.bonigarcia:webdrivermanager:jar:3.8.1" target="io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.apache.commons:commons-lang3:jar:3.8.1">
-                  <point x="66.5" y="-8.571428571428555" />
-                  <point x="439.0" y="863.7430740987979" />
-                  <point x="-61.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.apache.commons:commons-exec:jar:1.3">
-                  <point x="80.0" y="2.5" />
-                  <point x="-58.0" y="-3.3333333333333144" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-safari-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59">
-                  <point x="75.0" y="12.857142857142861" />
-                  <point x="-80.0" y="-9.375" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-support:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-api:jar:3.141.59">
-                  <point x="64.0" y="4.285714285714278" />
-                  <point x="602.0" y="403.9012572318645" />
-                  <point x="682.0" y="442.8402870493993" />
-                  <point x="842.0" y="442.8402870493993" />
-                  <point x="-51.5" y="3.3333333333333144" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/net.bytebuddy:byte-buddy:jar:1.8.15">
-                  <point x="77.5" y="-4.285714285714278" />
-                  <point x="682.0" y="492.19742990654225" />
-                  <point x="842.0" y="492.19742990654225" />
-                  <point x="-48.0" y="10.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-safari-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okhttp3:okhttp:jar:3.11.0">
-                  <point x="75.0" y="-8.571428571428555" />
-                  <point x="682.0" y="79.72268580329307" />
-                  <point x="842.0" y="79.72268580329307" />
-                  <point x="922.0" y="167.73459056519783" />
-                  <point x="-34.5" y="-6.666666666666686" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okio:okio:jar:1.14.0">
-                  <point x="54.0" y="-13.928571428571445" />
-                  <point x="359.0" y="268.4637572318645" />
-                  <point x="439.0" y="0.0" />
-                  <point x="1038.0" y="0.0" />
-                  <point x="1118.0" y="213.724744103249" />
-                  <point x="-28.5" y="-13.5" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-ie-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-api:jar:3.141.59">
-                  <point x="65.5" y="4.285714285714334" />
-                  <point x="602.0" y="573.6274477080551" />
-                  <point x="682.0" y="610.8145026702266" />
-                  <point x="842.0" y="610.8145026702266" />
-                  <point x="-51.5" y="10.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-edge-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.apache.commons:commons-exec:jar:1.3">
-                  <point x="74.0" y="-0.0" />
-                  <point x="842.0" y="169.78571428571422" />
-                  <point x="-58.0" y="-6.666666666666686" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre/org.checkerframework:checker-compat-qual:jar:2.0.0">
-                  <point x="33.0" y="-0.0" />
-                  <point x="1038.0" y="583.9880952380951" />
-                  <point x="1118.0" y="665.9747441032489" />
-                  <point x="-74.5" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.141.59">
-                  <point x="54.0" y="5.357142857142833" />
-                  <point x="359.0" y="287.74947151757874" />
-                  <point x="-77.5" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okhttp3:okhttp:jar:3.11.0">
-                  <point x="81.5" y="-8.571428571428555" />
-                  <point x="842.0" y="21.21428571428561" />
-                  <point x="922.0" y="164.40125723186452" />
-                  <point x="-34.5" y="-10.0" />
-                </edge>
-                <edge source="com.github.e999or.lesson16:tastseleniumlesson16:1.0.0" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59">
-                  <point x="73.0" y="-11.25" />
-                  <point x="226.0" y="282.39232866043596" />
-                  <point x="-54.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-support:jar:3.141.59">
-                  <point x="54.0" y="3.2142857142857224" />
-                  <point x="359.0" y="285.60661437472163" />
-                  <point x="439.0" y="399.6155429461502" />
-                  <point x="-64.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-opera-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-api:jar:3.141.59">
-                  <point x="76.0" y="8.571428571428555" />
-                  <point x="682.0" y="389.1974299065422" />
-                  <point x="842.0" y="389.1974299065422" />
-                  <point x="-51.5" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-edge-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre">
-                  <point x="74.0" y="8.571428571428555" />
-                  <point x="842.0" y="178.35714285714272" />
-                  <point x="922.0" y="577.3214285714284" />
-                  <point x="-33.0" y="-6.666666666666629" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-api:jar:3.141.59">
-                  <point x="80.0" y="7.5" />
-                  <point x="-51.5" y="-3.3333333333333144" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre/com.google.code.findbugs:jsr305:jar:1.3.9">
-                  <point x="33.0" y="12.0" />
-                  <point x="1038.0" y="595.9880952380951" />
-                  <point x="1118.0" y="805.9747441032489" />
-                  <point x="-32.0" y="-0.0" />
-                </edge>
-                <edge source="io.github.bonigarcia:webdrivermanager:jar:3.8.1" target="io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.rauschig:jarchivelib:jar:1.0.0">
-                  <point x="66.5" y="-12.85714285714289" />
-                  <point x="439.0" y="793.7430740987979" />
-                  <point x="-44.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-safari-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.apache.commons:commons-exec:jar:1.3">
-                  <point x="75.0" y="-0.0" />
-                  <point x="842.0" y="99.78571428571422" />
-                  <point x="-58.0" y="-10.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-opera-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okio:okio:jar:1.14.0">
-                  <point x="76.0" y="-0.0" />
-                  <point x="1038.0" y="298.2226858032931" />
-                  <point x="1118.0" y="231.724744103249" />
-                  <point x="-28.5" y="4.5" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okio:okio:jar:1.14.0">
-                  <point x="80.0" y="-2.5" />
-                  <point x="922.0" y="280.57982866043596" />
-                  <point x="1038.0" y="280.57982866043596" />
-                  <point x="1118.0" y="228.724744103249" />
-                  <point x="-28.5" y="1.5" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre/com.google.j2objc:j2objc-annotations:jar:1.1">
-                  <point x="33.0" y="-6.0" />
-                  <point x="1038.0" y="577.9880952380951" />
-                  <point x="1118.0" y="595.9747441032489" />
-                  <point x="-67.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/net.bytebuddy:byte-buddy:jar:1.8.15">
-                  <point x="81.5" y="-4.285714285714278" />
-                  <point x="842.0" y="25.499999999999886" />
-                  <point x="-48.0" y="-10.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-ie-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okhttp3:okhttp:jar:3.11.0">
-                  <point x="65.5" y="-8.571428571428555" />
-                  <point x="602.0" y="560.7703048509122" />
-                  <point x="682.0" y="460.9845905651979" />
-                  <point x="842.0" y="460.9845905651979" />
-                  <point x="922.0" y="187.7345905651979" />
-                  <point x="-34.5" y="13.333333333333371" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okio:okio:jar:1.14.0">
-                  <point x="77.5" y="8.571428571428555" />
-                  <point x="682.0" y="522.127447708055" />
-                  <point x="1038.0" y="522.127447708055" />
-                  <point x="1118.0" y="237.724744103249" />
-                  <point x="-28.5" y="10.5" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-api:jar:3.141.59">
-                  <point x="54.0" y="11.785714285714278" />
-                  <point x="359.0" y="294.1780429461502" />
-                  <point x="439.0" y="626.1002169559408" />
-                  <point x="842.0" y="626.1002169559408" />
-                  <point x="-51.5" y="13.333333333333314" />
-                </edge>
-                <edge source="io.github.bonigarcia:webdrivermanager:jar:3.8.1" target="io.github.bonigarcia:webdrivermanager:jar:3.8.1/commons-io:commons-io:jar:2.6">
-                  <point x="66.5" y="-4.285714285714334" />
-                  <point x="439.0" y="933.7430740987979" />
-                  <point x="-51.5" y="-0.0" />
-                </edge>
-                <edge source="io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.rauschig:jarchivelib:jar:1.0.0" target="io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.rauschig:jarchivelib:jar:1.0.0/org.apache.commons:commons-compress:jar:1.18">
-                  <point x="44.0" y="-0.0" />
-                  <point x="-72.0" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-safari-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.google.guava:guava:jar:25.0-jre">
-                  <point x="75.0" y="8.571428571428555" />
-                  <point x="682.0" y="121.57640743213142" />
-                  <point x="842.0" y="121.57640743213142" />
-                  <point x="922.0" y="573.9880952380951" />
-                  <point x="-33.0" y="-10.0" />
-                </edge>
-                <edge source="com.github.e999or.lesson16:tastseleniumlesson16:1.0.0" target="org.testng:testng:jar:7.1.0">
-                  <point x="73.0" y="11.25" />
-                  <point x="226.0" y="1348.770304850912" />
-                  <point x="-33.5" y="-0.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-edge-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-api:jar:3.141.59">
-                  <point x="74.0" y="4.285714285714278" />
-                  <point x="842.0" y="174.07142857142844" />
-                  <point x="-51.5" y="-6.666666666666686" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-support:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/com.squareup.okio:okio:jar:1.14.0">
-                  <point x="64.0" y="8.571428571428555" />
-                  <point x="602.0" y="408.18697151757874" />
-                  <point x="682.0" y="449.9845905651979" />
-                  <point x="1038.0" y="449.9845905651979" />
-                  <point x="1118.0" y="234.724744103249" />
-                  <point x="-28.5" y="7.5" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-ie-driver:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.apache.commons:commons-exec:jar:1.3">
-                  <point x="65.5" y="-0.0" />
-                  <point x="602.0" y="569.3417334223407" />
-                  <point x="682.0" y="585.39783600356" />
-                  <point x="842.0" y="585.39783600356" />
-                  <point x="-58.0" y="10.0" />
-                </edge>
-                <edge source="org.seleniumhq.selenium:selenium-java:jar:3.141.59" target="org.seleniumhq.selenium:selenium-java:jar:3.141.59/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.141.59">
-                  <point x="54.0" y="-7.5" />
-                  <point x="359.0" y="274.89232866043596" />
-                  <point x="-81.5" y="-0.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.2721041809458533" x="-298.98488664987406" y="1132.0151133501258" />
-              <SelectedNodes>
-                <node>io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.jsoup:jsoup:jar:1.11.3</node>
-              </SelectedNodes>
-              <Categories />
-              <VISIBILITY>All</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -686,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testNG.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testNG.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/suites/testNG.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -706,13 +57,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/github/e999or/lesson16/SimpleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="1092">
+              <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -741,8 +94,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/github/e999or/lesson16/SimpleTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/suites/testNG.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/github/e999or/lesson16/SimpleTest.java" />
       </list>
     </option>
   </component>
@@ -775,11 +128,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="45" />
-    <option name="y" value="-19" />
-    <option name="width" value="1286" />
-    <option name="height" value="711" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="5" />
+    <option name="y" value="8" />
+    <option name="width" value="1307" />
+    <option name="height" value="667" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -797,7 +150,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -863,8 +217,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1066,7 +419,12 @@
       <workItem from="1584040567130" duration="5542000" />
       <workItem from="1584076602706" duration="4870000" />
       <workItem from="1584108308394" duration="7941000" />
-      <workItem from="1584165860232" duration="4651000" />
+      <workItem from="1584165860232" duration="5221000" />
+      <workItem from="1584171331091" duration="3973000" />
+      <workItem from="1584206712470" duration="1739000" />
+      <workItem from="1584213344517" duration="2492000" />
+      <workItem from="1584301874459" duration="169000" />
+      <workItem from="1584518325089" duration="927000" />
     </task>
     <task id="LOCAL-00001" summary="WebDriverManager warn closed host">
       <created>1583909632708</created>
@@ -1089,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584110211079</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mistake fix , run mvn clean test">
+      <created>1584170666801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584170666801</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1125,22 +490,21 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48971000" />
+    <option name="totallyTimeSpent" value="58841000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="5" y="8" width="1307" height="667" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38134205" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7152209" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3764045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2473525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2670409" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1148,6 +512,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1165,13 +530,42 @@
     <MESSAGE value="WebDriverManager warn closed host" />
     <MESSAGE value="Finish home work" />
     <MESSAGE value="Add resourses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add resourses" />
+    <MESSAGE value="mistake fix , run mvn clean test" />
+    <option name="LAST_COMMIT_MESSAGE" value="mistake fix , run mvn clean test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/github/e999or/lesson16/SimpleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/suites/testNG.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
@@ -1207,6 +601,8 @@
           <caret line="88" column="53" lean-forward="false" selection-start-line="88" selection-start-column="53" selection-end-line="88" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1241,6 +637,8 @@
           <caret line="104" column="76" lean-forward="true" selection-start-line="104" selection-start-column="76" selection-end-line="104" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1275,6 +673,8 @@
           <caret line="83" column="82" lean-forward="true" selection-start-line="83" selection-start-column="82" selection-end-line="83" selection-end-column="82" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1309,6 +709,8 @@
           <caret line="80" column="76" lean-forward="false" selection-start-line="80" selection-start-column="76" selection-end-line="80" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1343,6 +745,8 @@
           <caret line="74" column="75" lean-forward="false" selection-start-line="74" selection-start-column="75" selection-end-line="74" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1377,6 +781,8 @@
           <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1411,6 +817,8 @@
           <caret line="48" column="17" lean-forward="false" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1452,6 +860,8 @@
           <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1486,6 +896,8 @@
           <caret line="33" column="35" lean-forward="false" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1501,33 +913,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/github/e999or/lesson16/SimpleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2164,11 +1549,12 @@
               <point x="-81.5" y="-0.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.2721041809458533" x="-298.98488664987406" y="1132.0151133501258" />
+          <settings layout="Hierarchic Group" zoom="0.2721041809458533" x="-299.0" y="1132.0" />
           <SelectedNodes>
-            <node>io.github.bonigarcia:webdrivermanager:jar:3.8.1/org.jsoup:jsoup:jar:1.11.3</node>
+            <node>com.github.e999or.lesson16:tastseleniumlesson16:1.0.0</node>
           </SelectedNodes>
           <Categories />
+          <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
@@ -2181,11 +1567,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/suites/testNG.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/github/e999or/lesson16/SimpleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

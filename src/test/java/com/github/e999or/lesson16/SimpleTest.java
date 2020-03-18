@@ -35,12 +35,14 @@ public class SimpleTest {
     @AfterMethod
     public void afterTestMethod() {
         LOG.info("After Test method");
+        webDriver.quit();
     }
 
     @Test
     public void simpleTest() throws InterruptedException {
         LOG.info("Simple test");
         webDriver.get("https://savkk.github.io/selenium-practice/");
+
         WebElement buttonButton = webDriver.findElement(By.id("button"));
         buttonButton.click();
         WebElement buttonFirstClikMe = webDriver.findElement(By.id("first"));
@@ -48,6 +50,7 @@ public class SimpleTest {
         WebElement buttonFirstClikMeToo = webDriver.findElement(By.xpath("//div/input"));
         buttonFirstClikMeToo.click();
         webDriver.findElement(By.linkText("Great! Return to menu")).click();
+
         webDriver.findElement(By.id("checkbox")).click();
         webDriver.findElement(By.id("one")).click();
         webDriver.findElement(By.id("two")).click();
@@ -58,6 +61,7 @@ public class SimpleTest {
         webDriver.findElement(By.id("radio_three")).click();
         webDriver.findElement(By.id("radio_go")).click();
         webDriver.findElement(By.linkText("Great! Return to menu")).click();
+
         webDriver.findElement(By.id("select")).click();
         WebElement select = webDriver.findElement(By.name("hero"));
         Select selectHero = new Select(select);
@@ -67,6 +71,7 @@ public class SimpleTest {
         selectLanguages.selectByVisibleText("Java");
         webDriver.findElement(By.id("go")).click();
         webDriver.findElement(By.linkText("Great! Return to menu")).click();
+
         webDriver.findElement(By.id("form")).click();
         webDriver.findElement(By.xpath("//label[.='First Name:']/following::input")).sendKeys("Егор");
         webDriver.findElement(By.xpath("//label[.='Last Name:']/following::input")).sendKeys("Трофимов");
@@ -85,6 +90,7 @@ public class SimpleTest {
         webDriver.findElement(By.name("code")).sendKeys(noSpace);
         webDriver.findElement(By.name("ok")).click();
         webDriver.findElement(By.linkText("Great! Return to menu")).click();
+
         webDriver.findElement(By.id("alerts")).click();
         webDriver.findElement(By.className("get")).click();
         Alert alert = webDriver.switchTo().alert();
@@ -96,6 +102,7 @@ public class SimpleTest {
         alert.accept();
         webDriver.findElement(By.className("return")).click();
         alert.accept();
+
         webDriver.findElement(By.id("table")).click();
         webDriver.findElement(By.id("customers")).click();
         webDriver.findElement(By.xpath("//td[text()='Island Trading']/parent:: node()/td/input")).click();
@@ -105,12 +112,6 @@ public class SimpleTest {
         webDriver.findElement(By.xpath("//label[text()='Country']/following::input")).sendKeys("Россия");
         webDriver.findElement(By.xpath("//input[@value='Add']")).click();
         webDriver.findElement(By.linkText("Great! Return to menu")).click();
-
-
-
-
-        Thread.sleep(10000);
-        webDriver.quit();
     }
 
 
